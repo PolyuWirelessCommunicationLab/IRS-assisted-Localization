@@ -11,7 +11,7 @@ This repository consists of the codes for our work on passive localization [1][2
 
 # Citation
 
-[1] @conference{globecom22,
+[1] @conference{globecom22,<br>
   title={{Trilateration-based device-free sensing: Two base stations and one passive IRS are sufficient}},<br>
   author={Wang, Qipeng and Liu, Liang and Zhang, Shuowen and Lau, Francis C.M.},<br>
   booktitle={Proc. IEEE Global Commun. Conf. (Globecom)},<br>
