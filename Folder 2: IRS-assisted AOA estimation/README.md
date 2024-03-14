@@ -1,3 +1,5 @@
+# MUSIC algorithm for IRS-assisted AOA estimation
+
 This code is for paper: [Q. Wang, L. Liu, and S. Zhang, "MUSIC algorithm for IRS-assisted AOA estimation," in _Proc. IEEE Veh. Technol. Conf. (VTC)_, Oct. 2023, pp. 1-5.](https://arxiv.org/abs/2309.02947).
 
 # Abstract
