@@ -5,7 +5,7 @@ This repository consists of the codes for our work on passive localization [1][2
 
 [1] Q. Wang, L. Liu, S. Zhang, and F.C.M. Lau, "[Trilateration-based device-free sensing: Two base stations and one passive IRS are sufficient](https://arxiv.org/abs/2205.12667)," in _Proc. IEEE Global Commun. Conf. (Globecom)_, Dec. 2022, pp. 5613-5618. <br>
 
-[2] Q. Wang, L. Liu, S. Zhang, B. Di, and F.C.M. Lau, "[A heterogeneous 6G networked sensing architecture with active and passive anchors](https://arxiv.org/abs/2205.12667)," _IEEE Trans. Wireless Commun._, Early Access.]<br>
+[2] Q. Wang, L. Liu, S. Zhang, B. Di, and F.C.M. Lau, "[A heterogeneous 6G networked sensing architecture with active and passive anchors](https://arxiv.org/abs/2205.12667)," _IEEE Trans. Wireless Commun._, Early Access.<br>
 
 [3] Q. Wang, L. Liu, and S. Zhang, "[MUSIC algorithm for IRS-assisted AOA estimation](https://arxiv.org/abs/2309.02947)," in _Proc. IEEE Veh. Technol. Conf. (VTC)_, Oct. 2023, pp. 1-5.<br>
 
