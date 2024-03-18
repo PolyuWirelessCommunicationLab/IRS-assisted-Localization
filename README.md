@@ -1,4 +1,4 @@
-# IRS-assisted-Localization
+# IRS-Assisted-Localization
 
 This code is for our work on passive localization [1][2] and active localization [3] with intelligent reflecting surface (IRS or RIS). We aim to exploit the IRSs in cellular networks as passive anchors to obtain time-of-arrival (TOA) information or angle-of-arrival (AOA) information for localization. In particular, [1][2] utilize IRSs to obatin time-of-arrival related measurements. With time-related measurements, we further perform data association and passive localization. The codes for [1][2] are included in Folder 1. [3] utilizes the IRS to obtain angle-of-arrival information at the IRS. We propose a novel virtual array design, based on which we further implement MUSIC algorithm on the multi-dimensional signals for estimating AOAs at the IRS. Should you have any question, welcome to contact the author at: qipeng.wang@connect.polyu.hk. <br>
 
