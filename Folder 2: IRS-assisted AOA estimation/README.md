@@ -7,3 +7,6 @@ Based on the signals received across its antennas, a multi-antenna base station 
 
 # How to run?
 model.m is the main function. For more details about each function, please refer to the code.
+
+# Update
+We add some references for parameter setting. Please refer to the code for more information.
